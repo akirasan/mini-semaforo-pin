@@ -4,9 +4,9 @@
 */
 
 
-int led_verde = A0;    // LED connected to digital pin 9
-int led_rojo = A2;    // LED connected to digital pin 9
-int led_amarillo = A1;    // LED connected to digital pin 9
+int led_verde = A0;    // LED connected to digital pin A0
+int led_rojo = A2;    // LED connected to digital pin A2
+int led_amarillo = A1;    // LED connected to digital pin A1
 
 void setup() {
   // nada que hacer aquí
